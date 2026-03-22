@@ -35,7 +35,7 @@
     }
     .quote {
       font-style: italic;
-      color: #555;
+      color: #41447a;
       margin: 15px 0;
     }
     footer {
